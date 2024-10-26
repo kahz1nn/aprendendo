@@ -70,7 +70,7 @@ function respostaSelecionada(opcaoSelecionada) {
 
     if (opcaoSelecionada.texto === "Sim") {
         alert(afirmacao);
-        window.location.href = "https://music.youtube.com/watch?v=izGwDsrQ1eQ";
+        window.location.href = "https://music.youtube.com/watch?v=-HAbOWi5rD8&si=vxUaX8fS7flV4gws";
     }
 
     atual++;
@@ -78,7 +78,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = " tambem te amo nega";
+    caixaPerguntas.textContent = "Você é café? Porque eu não vivo sem você";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
