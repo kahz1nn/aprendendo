@@ -69,7 +69,7 @@ function respostaSelecionada(opcaoSelecionada) {
     historiaFinal += afirmacao + " ";
 
     if (opcaoSelecionada.texto === "Sim") {
-        alert(afirmacao);s
+        alert(afirmacao);
         window.location.href = "https://music.youtube.com/watch?v=-HAbOWi5rD8&si=dAmUqKH_eIDgdAhM";
     }
 
