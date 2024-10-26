@@ -14,7 +14,13 @@ body {
     align-items: center;
     min-height: 100vh;
 }
-
+.caixa-principal {
+    background-color: var(--cor-principal);
+    width: 90%;
+    text-align: center;
+    padding: 50px;
+    border-radius: 10px;
+}
 
 h1 {
     color: var(--cor-destaque);
