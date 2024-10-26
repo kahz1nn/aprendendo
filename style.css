@@ -27,8 +27,9 @@ h1 {
 }
 
 .mensagem{
-    display: flex;
-    text-align: end;
+     display: flex;
+     justify-content: flex-end;
+     padding: 0%;
 }
 
 button {
