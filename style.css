@@ -26,6 +26,11 @@ h1 {
     color: var(--cor-destaque);
 }
 
+.mensagem{
+    display: flex;
+    text-align: end;
+}
+
 button {
     background-color: var(--cor-principal);
     color: var(--cor-destaque);
