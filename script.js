@@ -78,7 +78,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Obrigado :)";
+    caixaPerguntas.textContent = " tambem te amo nega";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
