@@ -26,12 +26,6 @@ h1 {
     color: var(--cor-destaque);
 }
 
-.mensagem{
-     display: flex;
-     justify-content: flex-end;
-     padding: 0%;
-}
-
 button {
     background-color: var(--cor-principal);
     color: var(--cor-destaque);
@@ -44,4 +38,13 @@ button {
 button:hover {
     background-color: var(--cor-destaque);
     color: var(--cor-secundaria);
+}
+
+
+.rodape {
+    border-radius: 10px;
+}
+
+p.rodape{
+    display: block;
 }
