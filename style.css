@@ -16,9 +16,9 @@ body {
 }
 .caixa-principal {
     background-color: var(--cor-principal);
-    width: 90%;
+    width: 50%;
     text-align: center;
-    padding: 50px;
+    padding: 20px;
     border-radius: 10px;
 }
 
