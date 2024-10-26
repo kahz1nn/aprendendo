@@ -69,8 +69,8 @@ function respostaSelecionada(opcaoSelecionada) {
     historiaFinal += afirmacao + " ";
 
     if (opcaoSelecionada.texto === "Sim") {
-        alert(afirmacao);
-        window.location.href = "https://music.youtube.com/watch?v=-HAbOWi5rD8&si=vxUaX8fS7flV4gws";
+        alert(afirmacao);s
+        window.location.href = "https://music.youtube.com/watch?v=sXj-3G2EuzE&si=wCIXVTJBxHnNPdcC";
     }
 
     atual++;
