@@ -40,11 +40,12 @@ button:hover {
     color: var(--cor-secundaria);
 }
 
-
-.rodape {
+.mensagem{
+    display: flex;
+    background-color: #e642c5;
+    justify-content: space-around;
+    align-items:normal;
+    margin: 20px;
     border-radius: 10px;
-}
-
-p.rodape{
-    display: block;
+    text-align: justify;
 }
