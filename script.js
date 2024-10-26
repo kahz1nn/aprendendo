@@ -84,3 +84,14 @@ function mostraResultado() {
 }
 
 mostraPergunta();
+
+function mudarCorFundo() {
+    const r = Math.floor(Math.random() * 256);
+    const g = Math.floor(Math.random() * 256);
+    const b = Math.floor(Math.random() * 256);
+
+    document.documentElement.style.setProperty('--cor-fundo', `rgb(${r}, ${g}, ${b})`);
+}
+
+setInterval(mudarCorFundo, 1000);
+
