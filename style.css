@@ -40,12 +40,13 @@ button:hover {
     color: var(--cor-secundaria);
 }
 
-.mensagem{
+.mensagem {
     display: flex;
-    background-color: #e642c5;
-    justify-content: space-around;
-    align-items:normal;
-    margin: 20px;
+    justify-content: center;
+    align-items: center;     
+    margin: 20px 0;         
+    padding: 10px;         
     border-radius: 10px;
     text-align: justify;
+    width: 100%;           
 }
